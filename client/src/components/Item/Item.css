@@ -1,0 +1,11 @@
+.Action-Button {
+    width: 45px;
+    height: 40px;
+    background-color: #c31b1b;
+    color: #fff;
+    border: none;
+    margin: 5px;
+    border-radius: 2px;
+    cursor: pointer;
+    outline: none;
+}
